@@ -1,0 +1,25 @@
+{
+  "name": "2020311067_a1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadst/skku-stat.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadst/skku-stat/issues"
+  },
+  "homepage": "https://github.com/cadst/skku-stat#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
